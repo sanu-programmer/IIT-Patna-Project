@@ -1,4 +1,4 @@
 # IIT-Patna-Project
 This is my First Repository
 <br>
-Author- Sanu Kumar
+Author- Sanu Kumar (IIT Patna Student)
